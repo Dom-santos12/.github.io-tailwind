@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       backgroundImage:{
         'home':"url('/cardapio-tailwind/assets/bg.png')",
-      }
+      },
     },
   },
   plugins: [],
